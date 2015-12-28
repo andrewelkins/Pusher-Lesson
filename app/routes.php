@@ -29,6 +29,6 @@ Route::any('test', function()
         ['title' => 'My Great New Post']
     );
 
-    // Do Whataver
+    // Do Whatever
     return 'Done';
 });
